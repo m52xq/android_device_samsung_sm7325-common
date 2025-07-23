@@ -225,11 +225,11 @@
                 <route type="mix" sink="hifi_input"
                        sources="USB Device In,USB Headset In"/>
                 <route type="mix" sink="BT SCO"
-                       sources="primary output,deep_buffer,fast,voip_rx,immersive_out"/>
+                       sources="primary output,deep_buffer,fast,voip_rx"/>
                 <route type="mix" sink="BT SCO Headset"
-                       sources="primary output,deep_buffer,fast,voip_rx,immersive_out"/>
+                       sources="primary output,deep_buffer,fast,voip_rx"/>
                 <route type="mix" sink="BT SCO Car Kit"
-                       sources="primary output,deep_buffer,fast,voip_rx,immersive_out"/>
+                       sources="primary output,deep_buffer,fast,voip_rx"/>
                 <route type="mix" sink="Telephony Tx"
                        sources="voice_tx,incall_music_uplink"/>
                 <route type="mix" sink="voice_rx"
