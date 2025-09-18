@@ -1,4 +1,4 @@
-# All blobs are from A736BXXUAEXK4 (U), unless pinned
+# All blobs are from A736BXXUAGYH7 (16), unless pinned
 
 # ACDB
 vendor/lib/libacdb-fts.so
@@ -367,7 +367,7 @@ vendor/lib64/libcdfw.so
 vendor/lib/vendor.qti.hardware.cacert@1.0.so
 vendor/lib64/vendor.qti.hardware.cacert@1.0.so
 
-# Graphics from Spacewar-U3.0-250303-1817
+# Graphics
 vendor/bin/hw/vendor.display.color@1.0-service
 vendor/etc/init/vendor.display.color@1.0-service.rc
 vendor/bin/ppd
@@ -437,11 +437,11 @@ vendor/etc/display/DPU660.xml
 vendor/etc/display/DPU670.xml
 vendor/etc/display/DPU720.xml
 
-# Vulkan from Spacewar-U3.0-250303-1817
+# Vulkan
 vendor/lib/hw/vulkan.adreno.so
 vendor/lib64/hw/vulkan.adreno.so
 
-# Adreno from Spacewar-U3.0-250303-1817
+# Adreno
 vendor/lib/egl/libq3dtools_adreno.so;SYMLINK=vendor/lib/libq3dtools_adreno.so
 vendor/lib64/egl/libq3dtools_adreno.so;SYMLINK=vendor/lib64/libq3dtools_adreno.so
 vendor/lib/egl/libq3dtools_esx.so
